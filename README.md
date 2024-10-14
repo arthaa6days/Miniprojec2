@@ -1,4 +1,6 @@
 ![image](https://github.com/user-attachments/assets/0fbbafdd-b0f4-49e9-b232-7b3834459c23)
+Nama:Muhammad Rifqi Jastiartha
+Nim: 2409116117
 1. Mulai dan Menu Utama
 Mulai: Sistem dimulai.
 Menu Login: Menampilkan pilihan untuk pengguna:
